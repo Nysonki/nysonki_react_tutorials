@@ -1,0 +1,15 @@
+{
+    "extensions": {
+        "recommendations": ["dbaeumer.vscode-eslint"]
+    },
+    "folders": [
+        {
+            "name": "Root",
+            "path": "."
+        },
+        {
+            "name": "Tutorials",
+            "path": "./tutorials"
+        }
+    ]
+}
